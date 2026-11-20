@@ -1,8 +1,3 @@
-# PersianTypoCorrection
-Persian typo correction using machine learning, character-level TF-IDF, and LinearSVC.
-
-
-
 # Persian Typo Correction
 
 A machine-learning project for detecting and correcting Persian (Farsi) spelling mistakes using character-level TF-IDF and LinearSVC.
